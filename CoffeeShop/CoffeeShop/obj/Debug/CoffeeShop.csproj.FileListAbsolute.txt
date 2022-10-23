@@ -1,0 +1,81 @@
+D:\HocKi2_2022\DBMS\Project\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+D:\HocKi2_2022\DBMS\Project\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+D:\HocKi2_2022\DBMS\Project\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+D:\HocKi2_2022\DBMS\Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+D:\HocKi2_2022\DBMS\Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.cache
+D:\HocKi2_2022\DBMS\Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+D:\HocKi2_2022\DBMS\Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+D:\HocKi2_2022\DBMS\Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+D:\HocKi2_2022\DBMS\Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.HomePage.resources
+D:\HocKi2_2022\DBMS\Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Bill.resources
+D:\HocKi2_2022\DBMS\Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.CoffeeShopManage.resources
+D:\HocKi2_2022\DBMS\Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Dismiss.resources
+D:\HocKi2_2022\DBMS\Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Edit.resources
+D:\HocKi2_2022\DBMS\Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Employee.resources
+D:\HocKi2_2022\DBMS\Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Find.resources
+D:\HocKi2_2022\DBMS\Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Manager.resources
+D:\HocKi2_2022\DBMS\Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+D:\HocKi2_2022\DBMS\Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Customer.resources
+D:\HocKi2_2022\DBMS\Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.IncomeForm.resources
+D:\DBMS\Final project\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+D:\DBMS\Final project\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+D:\DBMS\Final project\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+D:\DBMS\Final project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Bill.resources
+D:\DBMS\Final project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.CoffeeShopManage.resources
+D:\DBMS\Final project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Customer.resources
+D:\DBMS\Final project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Dismiss.resources
+D:\DBMS\Final project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Edit.resources
+D:\DBMS\Final project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Employee.resources
+D:\DBMS\Final project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Find.resources
+D:\DBMS\Final project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.HomePage.resources
+D:\DBMS\Final project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.IncomeForm.resources
+D:\DBMS\Final project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Manager.resources
+D:\DBMS\Final project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+D:\DBMS\Final project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.cache
+D:\DBMS\Final project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+D:\DBMS\Final project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+D:\DBMS\Final project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+D:\DBMS\Final project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+D:\HocKi2_2022\DBMS\Project\New folder\test\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+D:\HocKi2_2022\DBMS\Project\New folder\test\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+D:\HocKi2_2022\DBMS\Project\New folder\test\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+D:\HocKi2_2022\DBMS\Project\New folder\test\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+D:\HocKi2_2022\DBMS\Project\New folder\test\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Bill.resources
+D:\HocKi2_2022\DBMS\Project\New folder\test\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.CoffeeShopManage.resources
+D:\HocKi2_2022\DBMS\Project\New folder\test\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Customer.resources
+D:\HocKi2_2022\DBMS\Project\New folder\test\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Dismiss.resources
+D:\HocKi2_2022\DBMS\Project\New folder\test\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Edit.resources
+D:\HocKi2_2022\DBMS\Project\New folder\test\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Employee.resources
+D:\HocKi2_2022\DBMS\Project\New folder\test\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Find.resources
+D:\HocKi2_2022\DBMS\Project\New folder\test\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.HomePage.resources
+D:\HocKi2_2022\DBMS\Project\New folder\test\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.IncomeForm.resources
+D:\HocKi2_2022\DBMS\Project\New folder\test\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Manager.resources
+D:\HocKi2_2022\DBMS\Project\New folder\test\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+D:\HocKi2_2022\DBMS\Project\New folder\test\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.cache
+D:\HocKi2_2022\DBMS\Project\New folder\test\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+D:\HocKi2_2022\DBMS\Project\New folder\test\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+D:\HocKi2_2022\DBMS\Project\New folder\test\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+D:\HocKi2_2022\DBMS\Project\New folder\test\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.EditItemForm.resources
+D:\HocKi2_2022\DBMS\Project\New folder\test\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.AddManager.resources
+C:\Users\Nam\OneDrive\Desktop\ĐHSPKT\HK2 T2 2022\Database Management System\SUBJECT PROJECT\CoffeShop2005\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+C:\Users\Nam\OneDrive\Desktop\ĐHSPKT\HK2 T2 2022\Database Management System\SUBJECT PROJECT\CoffeShop2005\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+C:\Users\Nam\OneDrive\Desktop\ĐHSPKT\HK2 T2 2022\Database Management System\SUBJECT PROJECT\CoffeShop2005\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+C:\Users\Nam\OneDrive\Desktop\ĐHSPKT\HK2 T2 2022\Database Management System\SUBJECT PROJECT\CoffeShop2005\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+C:\Users\Nam\OneDrive\Desktop\ĐHSPKT\HK2 T2 2022\Database Management System\SUBJECT PROJECT\CoffeShop2005\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nam\OneDrive\Desktop\ĐHSPKT\HK2 T2 2022\Database Management System\SUBJECT PROJECT\CoffeShop2005\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.AddManager.resources
+C:\Users\Nam\OneDrive\Desktop\ĐHSPKT\HK2 T2 2022\Database Management System\SUBJECT PROJECT\CoffeShop2005\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Bill.resources
+C:\Users\Nam\OneDrive\Desktop\ĐHSPKT\HK2 T2 2022\Database Management System\SUBJECT PROJECT\CoffeShop2005\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.CoffeeShopManage.resources
+C:\Users\Nam\OneDrive\Desktop\ĐHSPKT\HK2 T2 2022\Database Management System\SUBJECT PROJECT\CoffeShop2005\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Customer.resources
+C:\Users\Nam\OneDrive\Desktop\ĐHSPKT\HK2 T2 2022\Database Management System\SUBJECT PROJECT\CoffeShop2005\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Dismiss.resources
+C:\Users\Nam\OneDrive\Desktop\ĐHSPKT\HK2 T2 2022\Database Management System\SUBJECT PROJECT\CoffeShop2005\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Edit.resources
+C:\Users\Nam\OneDrive\Desktop\ĐHSPKT\HK2 T2 2022\Database Management System\SUBJECT PROJECT\CoffeShop2005\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.EditItemForm.resources
+C:\Users\Nam\OneDrive\Desktop\ĐHSPKT\HK2 T2 2022\Database Management System\SUBJECT PROJECT\CoffeShop2005\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Employee.resources
+C:\Users\Nam\OneDrive\Desktop\ĐHSPKT\HK2 T2 2022\Database Management System\SUBJECT PROJECT\CoffeShop2005\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Find.resources
+C:\Users\Nam\OneDrive\Desktop\ĐHSPKT\HK2 T2 2022\Database Management System\SUBJECT PROJECT\CoffeShop2005\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.HomePage.resources
+C:\Users\Nam\OneDrive\Desktop\ĐHSPKT\HK2 T2 2022\Database Management System\SUBJECT PROJECT\CoffeShop2005\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.IncomeForm.resources
+C:\Users\Nam\OneDrive\Desktop\ĐHSPKT\HK2 T2 2022\Database Management System\SUBJECT PROJECT\CoffeShop2005\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Manager.resources
+C:\Users\Nam\OneDrive\Desktop\ĐHSPKT\HK2 T2 2022\Database Management System\SUBJECT PROJECT\CoffeShop2005\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+C:\Users\Nam\OneDrive\Desktop\ĐHSPKT\HK2 T2 2022\Database Management System\SUBJECT PROJECT\CoffeShop2005\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.cache
+C:\Users\Nam\OneDrive\Desktop\ĐHSPKT\HK2 T2 2022\Database Management System\SUBJECT PROJECT\CoffeShop2005\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\Nam\OneDrive\Desktop\ĐHSPKT\HK2 T2 2022\Database Management System\SUBJECT PROJECT\CoffeShop2005\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+C:\Users\Nam\OneDrive\Desktop\ĐHSPKT\HK2 T2 2022\Database Management System\SUBJECT PROJECT\CoffeShop2005\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
